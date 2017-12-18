@@ -1,2 +1,2 @@
 # anathimusic
-Personal music showcase. Building with react.
+Personal music showcase. Built with react.
